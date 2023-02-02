@@ -1,11 +1,9 @@
-import React from 'react';
+import Home from "./components/components";
 
 function App() {
   return (
-    <div className="App">
-      <h1 className="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+    <div className="flex justify-center items-center ">
+      <Home />
     </div>
   );
 }
