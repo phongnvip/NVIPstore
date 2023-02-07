@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/NVIPstore/static/css/main.3418b7c1.css",
-    "main.js": "/NVIPstore/static/js/main.af1f59a9.js",
+    "main.css": "/NVIPstore/static/css/main.8a87d55b.css",
+    "main.js": "/NVIPstore/static/js/main.2a7cc405.js",
     "static/media/test2.png": "/NVIPstore/static/media/test2.a324e837bea7bc97163c.png",
     "index.html": "/NVIPstore/index.html",
-    "main.3418b7c1.css.map": "/NVIPstore/static/css/main.3418b7c1.css.map",
-    "main.af1f59a9.js.map": "/NVIPstore/static/js/main.af1f59a9.js.map"
+    "main.8a87d55b.css.map": "/NVIPstore/static/css/main.8a87d55b.css.map",
+    "main.2a7cc405.js.map": "/NVIPstore/static/js/main.2a7cc405.js.map"
   },
   "entrypoints": [
-    "static/css/main.3418b7c1.css",
-    "static/js/main.af1f59a9.js"
+    "static/css/main.8a87d55b.css",
+    "static/js/main.2a7cc405.js"
   ]
 }
